@@ -1,0 +1,9 @@
+rule,value,interpretation,source
+refund_window_days,7,Cursos autogestionados,02_politica_reembolso_matriculas
+refund_max_progress_percent,20,Debe ser menor al 20 %,02_politica_reembolso_matriculas
+certificate_min_progress_percent,80,Contenido obligatorio,01_reglamento_estudiante;03_faq;04_guia
+certificate_min_grade,70,Escala de 0 a 100,01_reglamento_estudiante;03_faq;04_guia
+certificate_name_correction_days,30,Desde la emisión,01_reglamento_estudiante;03_faq
+affiliate_commission_percent,15,Sobre venta neta válida,05_programa_becas_afiliados
+affiliate_cookie_days,30,Última referencia válida,05_programa_becas_afiliados
+affiliate_minimum_payout_usd,50,Pago mensual,05_programa_becas_afiliados

@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuáles son las tres condiciones para pedir un reembolso de un curso autogestionado?",
+    "expected_topics": [
+      "7 días",
+      "menos del 20 %",
+      "sin certificado"
+    ],
+    "category": "reembolsos"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué progreso y nota necesito para certificarme?",
+    "expected_topics": [
+      "80 %",
+      "70/100"
+    ],
+    "category": "certificados"
+  },
+  {
+    "id": 3,
+    "question": "¿Puedo compartir mi cuenta con mi hermano?",
+    "expected_topics": [
+      "personal",
+      "intransferible"
+    ],
+    "category": "reglamento"
+  },
+  {
+    "id": 4,
+    "question": "¿Puedo usar ChatGPT en una tarea?",
+    "expected_topics": [
+      "permitido",
+      "revisar",
+      "declarar"
+    ],
+    "category": "integridad"
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es la comisión estándar de afiliados y cuánto dura la atribución?",
+    "expected_topics": [
+      "15 %",
+      "30 días"
+    ],
+    "category": "afiliados"
+  },
+  {
+    "id": 6,
+    "question": "¿Cuál es el pago mínimo del programa de afiliados?",
+    "expected_topics": [
+      "USD 50"
+    ],
+    "category": "afiliados"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué hago si no se actualiza mi progreso?",
+    "expected_topics": [
+      "recargar",
+      "esperar",
+      "actividad"
+    ],
+    "category": "plataforma"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué tipos de beca existen?",
+    "expected_topics": [
+      "necesidad",
+      "mérito",
+      "inclusión",
+      "alianzas"
+    ],
+    "category": "becas"
+  },
+  {
+    "id": 9,
+    "question": "¿Cuál es la capital de Francia?",
+    "expected_topics": [
+      "No encontré"
+    ],
+    "category": "fuera_de_alcance"
+  },
+  {
+    "id": 10,
+    "question": "Quiero que me devuelvan el dinero de mi compra",
+    "expected_topics": [
+      "revisión humana",
+      "referencia"
+    ],
+    "category": "ticket"
+  }
+]

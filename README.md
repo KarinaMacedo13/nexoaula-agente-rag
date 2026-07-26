@@ -116,13 +116,9 @@ Sigue [DEPLOY_OCI.md](DEPLOY_OCI.md). El requisito mínimo se cumple con una ins
 
 ### Evidencia del despliegue
 
-Añade aquí la captura final después de desplegar:
+![Aplicación ejecutándose en Streamlit Cloud](docs/evidence/streamlit_deploy.png)
 
-```markdown
-![Aplicación ejecutándose en OCI](docs/evidence/oci_deploy.png)
-```
-
-**URL pública:** `PENDIENTE_DE_DESPLIEGUE`
+**URL pública:** [`DESPLIEGUE`](https://nexoaula-agente-rag-tmugba4cjgbh8ktrrpvm3z.streamlit.app/)
 
 ## Estructura
 

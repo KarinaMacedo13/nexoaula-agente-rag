@@ -1,3 +1,5 @@
+# 🌐 [ABRIR NEXOAULA EN LÍNEA](https://nexoaula-agente-rag-tmugba4cjgbh8ktrrpvm3z.streamlit.app/)
+
 <p align="center"><img src="assets/logo_nexoaula.svg" width="620" alt="NexoAula"></p>
 
 # NexoAula: agente educativo con RAG
@@ -110,11 +112,21 @@ El último comando consume la API de Gemini.
 > Para obtener el certificado debes completar al menos el 80 % del contenido obligatorio, alcanzar una nota final mínima de 70/100 y no tener sanciones pendientes.
 > Fuente: `01_reglamento_estudiante.pdf`, sección Certificación.
 
-### Evidencia del despliegue
+# 🌐 [ABRIR NEXOAULA EN LÍNEA](https://nexoaula-agente-rag-tmugba4cjgbh8ktrrpvm3z.streamlit.app/)
 
-![Aplicación ejecutándose en Streamlit Cloud](docs/evidence/oci_deploy.png)
+## Evidencia del despliegue
 
-**URL pública:** [`DESPLIEGUE`](https://nexoaula-agente-rag-tmugba4cjgbh8ktrrpvm3z.streamlit.app/)
+<p align="center">
+  <a href="https://nexoaula-agente-rag-tmugba4cjgbh8ktrrpvm3z.streamlit.app/">
+    <img src="docs/evidence/oci_deploy.png"
+         alt="Aplicación NexoAula ejecutándose en Streamlit Cloud"
+         width="1000">
+  </a>
+</p>
+
+<p align="center">
+  Haz clic en la imagen para ingresar a la aplicación.
+</p>
 
 ## Estructura
 

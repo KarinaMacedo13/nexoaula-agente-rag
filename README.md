@@ -110,13 +110,9 @@ El último comando consume la API de Gemini.
 > Para obtener el certificado debes completar al menos el 80 % del contenido obligatorio, alcanzar una nota final mínima de 70/100 y no tener sanciones pendientes.
 > Fuente: `01_reglamento_estudiante.pdf`, sección Certificación.
 
-## Despliegue en OCI
-
-Sigue [DEPLOY_OCI.md](DEPLOY_OCI.md). El requisito mínimo se cumple con una instancia OCI Compute que ejecute el contenedor Docker.
-
 ### Evidencia del despliegue
 
-![Aplicación ejecutándose en Streamlit Cloud](docs/evidence/streamlit_deploy.png)
+![Aplicación ejecutándose en Streamlit Cloud](docs/evidence/oci_deploy.png)
 
 **URL pública:** [`DESPLIEGUE`](https://nexoaula-agente-rag-tmugba4cjgbh8ktrrpvm3z.streamlit.app/)
 
@@ -130,19 +126,7 @@ docs/editable/       documentos DOCX editables
 docs/source/         versiones Markdown
 scripts/              construcción, validación y pruebas
 evaluation/           banco de preguntas y guía de evaluación
-notebooks/            versión didáctica para Google Colab
 ```
-
-## Seguridad
-
-- Nunca subas `.env` ni una API key.
-- El índice FAISS se carga solo desde una ubicación controlada.
-- Los logs no deben almacenar contraseñas ni datos bancarios completos.
-- Antes de un uso real, adapta políticas, privacidad, soporte y tratamiento de datos a la jurisdicción aplicable.
-
-## Estado del proyecto
-
-Código, documentos, pruebas y despliegue Docker: completos. El repositorio público y el despliegue real en OCI requieren las credenciales del propietario.
 
 ## Licencia
 
